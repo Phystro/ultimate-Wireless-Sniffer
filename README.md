@@ -39,4 +39,4 @@ Contact
 
 This tool is currently maintained by Anthony 'phystro' Karoki.
 - Email : phystroq@gmail.com
-- Blog : thehackerealm.blogspot.com
+- Blog : thehackerrealm.blogspot.com
