@@ -5,20 +5,20 @@ __________________________
 Works In Python 2.
 Set your wireless adapter into monitor mode for this program to work and sniff wireless devices around you.
 
-
+______________________________
 Requirements:
 
 1.Scapy module
 2.The Standard Python Library
 
-
+______________________________
 Usage:
 
 python ultimate-Wireless-Sniffer.py  -i <interface>
 or
 python ultimate-Wireless-Sniffer.py
 
-
+_______________________________
 How It Works:
 
 The Ultimate Wireless Sniffer, will scan for all wireless traffic nearby, obtains the SSID's and ESSID's of Access Points
@@ -30,7 +30,7 @@ in case they grow too large.
 
 Designed to work on a Linux system. Tested on Kali Linux Rolling.
 
-
+_______________________________
 Contact:
 
 This tool is currently maintained by Anthony 'phystro' Karoki.
